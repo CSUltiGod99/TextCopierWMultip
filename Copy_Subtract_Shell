@@ -1,0 +1,14 @@
+from collect_data_066 import task_5
+from math import mean
+from math import *
+
+class Subtract_Shell:
+    def math_Mean_List():
+        meanlist_3 = [3, 4, 14, 7, 17, 16]
+        
+
+    def Subtract_ShellOUPt():
+        # Subtract Shell Output.
+        num_InPt = 23
+        input(num_InPt)
+        
