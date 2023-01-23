@@ -1,0 +1,27 @@
+
+# - Dividing Text for four places per line:
+
+class Divide_Text:
+   def __init__(self):
+       self.Typekey = Typekey()
+       self.Keylist = Keylist()
+
+   Typekey(press)
+   Keylist(ss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
