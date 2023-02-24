@@ -1,4 +1,5 @@
 
+
 from math import *  #
 
 class Data_Collector:
