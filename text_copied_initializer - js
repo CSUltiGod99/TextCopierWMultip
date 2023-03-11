@@ -1,0 +1,39 @@
+  Initialize the text copied from a py script:
+
+
+
+namespace copied_text_initia
+
+    class Program-text()
+    {
+
+
+
+   // Source Code:
+
+    public string textCopying = 
+
+
+       // the text stored in a clipboard file:
+    public string arraySelectText[2] = {"text Copying... ", "Select this text?"};
+
+        function Start()
+        {
+
+          
+        }
+        function onTextCopied()
+        {
+
+        }
+
+
+
+
+
+
+
+
+
+
+
