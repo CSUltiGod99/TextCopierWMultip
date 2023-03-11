@@ -1,9 +1,9 @@
-
+// This script for Copying & Verifying Certain KeyWords - JavaScript, Python Binding: 
 
 namespace Copy-Verify-Words()
 {
   class TextCopier
-
+  {
       
     public static void Verify(String[] args)
     {
@@ -26,7 +26,7 @@ namespace Copy-Verify-Words()
           }
           
         }
-      
+    }
       
       
 
