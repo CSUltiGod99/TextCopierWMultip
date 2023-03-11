@@ -11,11 +11,11 @@ namespace copied_text_initia
 
    // Source Code:
 
-    public string textCopying = 
+    public var String textCopying = 
 
 
        // the text stored in a clipboard file:
-    public string arraySelectText[2] = {"text Copying... ", "Select this text?"};
+    public var String arraySelectText[2] = {"text Copying... ", "Select this text?"};
 
         function Start()
         {
